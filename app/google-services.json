@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455128942723",
+    "project_id": "jetpackwithlayoutdemo",
+    "storage_bucket": "jetpackwithlayoutdemo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455128942723:android:477500efc75cc242d733b6",
+        "android_client_info": {
+          "package_name": "com.compose.jetpackwithlayoutdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFPM-rdnvgLb23svmPAQsrNt6Q-8zHdas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
